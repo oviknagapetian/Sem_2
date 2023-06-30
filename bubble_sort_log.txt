@@ -1,0 +1,6 @@
+Iteration 1: 34 25 12 22 11 64 90 
+Iteration 2: 25 12 22 11 34 64 90 
+Iteration 3: 12 22 11 25 34 64 90 
+Iteration 4: 12 11 22 25 34 64 90 
+Iteration 5: 11 12 22 25 34 64 90 
+Iteration 6: 11 12 22 25 34 64 90 
